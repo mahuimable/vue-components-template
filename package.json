@@ -7,7 +7,8 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "dev": "npm run serve",
-    "inspect": "vue inspect >output.js"
+    "inspect": "vue inspect >output.js",
+    "new": "node scripts/new.js"
   },
   "dependencies": {
     "node-sass": "^4.11.0",
